@@ -4,3 +4,4 @@ Jumpserver ALL 1.4.9
 有问题请参考 http://docs.jumpserver.org/zh/docs/faq.html
 
 进入容器命令 docker exec -it jms_all /bin/bash
+please work!
